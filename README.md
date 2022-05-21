@@ -7,3 +7,7 @@ Discriminative edici bir makine öğrenimi, koşullu olasılık P'yi (Y | X) en 
 
 Generative bir model, veri noktalarının ortak olasılığını modelleme eğiliminde olacak ve olasılık tahminlerini ve maksimum olasılığı kullanarak yeni örnekler oluşturabilecek olsa da, Discriminative modeller koşullu olasılığı modelleyerek sınıfları ayırır ve veri noktası hakkında herhangi bir varsayımda bulunmaz.
 Generative bir modelin verilerin nasıl üretildiğini açıklamaya odaklanırken, Discriminative bir modelin verilerin etiketlerini tahmin etmeye odaklanır.
+
+
+![image](https://user-images.githubusercontent.com/67440126/169647567-94752197-f8e8-4228-a813-6c636a2037a0.png)
+
